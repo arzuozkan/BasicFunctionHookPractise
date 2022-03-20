@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicFunctionHookPractise</string>
+    <string name="click_button">Click the button, get the flag!!!</string>
+    <string name="flag">1_l0v3_fr1da</string>
+    <string name="enter_flag_value">Enter Flag Value:</string>
+    <string name="click">CLICK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="flag_hint">flag</string>
+    <string name="success_msg">Congratulations!You\'ve hooked the method and submited the flag</string>
+</resources>
